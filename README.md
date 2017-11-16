@@ -1,2 +1,5 @@
 # hello-world
-Juste another repository for hands-on tutorials
+
+Howdy!
+
+Confession, Sofie the rookie here! Eager to learn all about GIT.
